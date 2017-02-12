@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>GameRect.qml</file>
+        <file>WinLine.qml</file>
+        <file>Cross.qml</file>
+        <file>Nought.qml</file>
+        <file>MenuItem.qml</file>
+    </qresource>
+</RCC>
